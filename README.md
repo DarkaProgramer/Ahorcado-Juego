@@ -9,7 +9,3 @@ Este proyecto es una implementación del clásico juego del Ahorcado desarrollad
 - Elección aleatoria de palabras para adivinar.
 - Imágenes ya incluidas en la carpeta `recursos` para una experiencia visual mejorada.
 
-## Instrucciones de Instalación
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/Ahorcado-Juego.git
